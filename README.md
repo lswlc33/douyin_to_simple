@@ -19,4 +19,8 @@ list=(
     ...
 )
 ```
+# 下载
+
+[进入这里](https://github.com/lswlc33/douyin_to_simple/blob/master/dyts.sh) 进去如图选 `Download`
+
 ![image](https://github.com/lswlc33/douyin_to_simple/assets/86835895/8ac953c8-636c-4c0d-bc7c-146444029fd0)
