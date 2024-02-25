@@ -19,3 +19,4 @@ list=(
     ...
 )
 ```
+![image](https://github.com/lswlc33/douyin_to_simple/assets/86835895/8ac953c8-636c-4c0d-bc7c-146444029fd0)
